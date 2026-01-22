@@ -1,0 +1,7 @@
+{
+  "name": "Meme Soundboard Roulette",
+  "description": "An AI-powered meme soundboard that uses Gemini TTS to bring viral memes to life. Features a 'Roulette' mode that auto-plays random meme sounds every 10 seconds for maximum chaos.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
